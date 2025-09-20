@@ -2,7 +2,7 @@ use crate::book::{Book, BookStatus};
 use crate::utils::read_line;
 use prettytable::{Table, row};
 use std::fs::OpenOptions;
-use std::io::{self, Read, Write};
+use std::io::{self, Read};
 
 const FILE_NAME: &str = "Books.json";
 

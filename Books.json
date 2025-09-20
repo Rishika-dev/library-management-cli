@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "ikigai",
+    "author": "Rishika",
+    "year": 2001,
+    "status": "Available"
+  },
+  {
+    "id": 2,
+    "title": "ikigai2",
+    "author": "Rishika2",
+    "year": 2002,
+    "status": "Available"
+  },
+  {
+    "id": 1,
+    "title": "ikigai",
+    "author": "rishika",
+    "year": 2001,
+    "status": "Available"
+  }
+]

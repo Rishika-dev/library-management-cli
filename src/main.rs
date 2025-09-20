@@ -2,8 +2,7 @@ mod book;
 mod storage;
 mod utils;
 
-use crate::book::{Book, BookStatus};
-use crate::storage::{add_book, load_books, save_books, display_book};
+use crate::storage::{add_book, load_books, display_book};
 use crate::utils::read_line;
 use std::io;
 
